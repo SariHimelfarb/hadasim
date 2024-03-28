@@ -16,6 +16,7 @@ Each member has the "corona" button, when you click on it, the corona data on th
 The list of vaccines will always appear with a button to add a vaccine, but there is a limit to adding up to four vaccines.
 The corona sick dates will appear if the member is sick with corona.
 ![פרטי קורונה](https://github.com/SariHimelfarb/hadasim/assets/149975170/a2ae4166-9893-4025-a404-d239c2900db1)
-
+To add a vaccine you must select the manufacturer from select which brings all the manufacturers that are in the manufacturers table:
+![הוספת חיסון](https://github.com/SariHimelfarb/hadasim/assets/149975170/1294770d-29ac-451a-ad45-226a154ce280)
 
 A patient who is currently positive for Corona will appear in the list of friends in red
