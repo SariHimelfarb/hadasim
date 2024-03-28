@@ -20,3 +20,6 @@ To add a vaccine you must select the manufacturer from select which brings all t
 ![הוספת חיסון](https://github.com/SariHimelfarb/hadasim/assets/149975170/1294770d-29ac-451a-ad45-226a154ce280)
 
 A patient who is currently positive for Corona will appear in the list of friends in red
+![צבע אדום](https://github.com/SariHimelfarb/hadasim/assets/149975170/dec87b9d-7868-4b87-86b8-f88efc03f195)
+
+
