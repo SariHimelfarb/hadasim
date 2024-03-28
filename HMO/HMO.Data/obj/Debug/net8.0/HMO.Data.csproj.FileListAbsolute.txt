@@ -1,0 +1,17 @@
+C:\Users\שרי הימלפרב\Desktop\threeProjects\HMO-client-server\HMO\HMO.Data\bin\Debug\net8.0\HMO.Data.deps.json
+C:\Users\שרי הימלפרב\Desktop\threeProjects\HMO-client-server\HMO\HMO.Data\bin\Debug\net8.0\HMO.Data.runtimeconfig.json
+C:\Users\שרי הימלפרב\Desktop\threeProjects\HMO-client-server\HMO\HMO.Data\bin\Debug\net8.0\HMO.Data.dll
+C:\Users\שרי הימלפרב\Desktop\threeProjects\HMO-client-server\HMO\HMO.Data\bin\Debug\net8.0\HMO.Data.pdb
+C:\Users\שרי הימלפרב\Desktop\threeProjects\HMO-client-server\HMO\HMO.Data\bin\Debug\net8.0\HMO.Core.dll
+C:\Users\שרי הימלפרב\Desktop\threeProjects\HMO-client-server\HMO\HMO.Data\bin\Debug\net8.0\HMO.Core.pdb
+C:\Users\שרי הימלפרב\Desktop\threeProjects\HMO-client-server\HMO\HMO.Data\obj\Debug\net8.0\HMO.Data.csproj.AssemblyReference.cache
+C:\Users\שרי הימלפרב\Desktop\threeProjects\HMO-client-server\HMO\HMO.Data\obj\Debug\net8.0\HMO.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\שרי הימלפרב\Desktop\threeProjects\HMO-client-server\HMO\HMO.Data\obj\Debug\net8.0\HMO.Data.AssemblyInfoInputs.cache
+C:\Users\שרי הימלפרב\Desktop\threeProjects\HMO-client-server\HMO\HMO.Data\obj\Debug\net8.0\HMO.Data.AssemblyInfo.cs
+C:\Users\שרי הימלפרב\Desktop\threeProjects\HMO-client-server\HMO\HMO.Data\obj\Debug\net8.0\HMO.Data.csproj.CoreCompileInputs.cache
+C:\Users\שרי הימלפרב\Desktop\threeProjects\HMO-client-server\HMO\HMO.Data\obj\Debug\net8.0\HMO.Data.csproj.CopyComplete
+C:\Users\שרי הימלפרב\Desktop\threeProjects\HMO-client-server\HMO\HMO.Data\obj\Debug\net8.0\HMO.Data.dll
+C:\Users\שרי הימלפרב\Desktop\threeProjects\HMO-client-server\HMO\HMO.Data\obj\Debug\net8.0\refint\HMO.Data.dll
+C:\Users\שרי הימלפרב\Desktop\threeProjects\HMO-client-server\HMO\HMO.Data\obj\Debug\net8.0\HMO.Data.pdb
+C:\Users\שרי הימלפרב\Desktop\threeProjects\HMO-client-server\HMO\HMO.Data\obj\Debug\net8.0\HMO.Data.genruntimeconfig.cache
+C:\Users\שרי הימלפרב\Desktop\threeProjects\HMO-client-server\HMO\HMO.Data\obj\Debug\net8.0\ref\HMO.Data.dll
